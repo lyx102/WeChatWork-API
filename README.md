@@ -38,6 +38,7 @@ Invoke-RestMethod `
 ---
 ## 支持企业微信版本
 - `5.0.11.6018`
+- 官网下载地址`[5.0.11.6018](https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.11.6018.exe)`
 ---
 ## 使用方法
 1. 克隆本项目。
