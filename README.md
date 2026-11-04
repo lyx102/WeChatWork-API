@@ -36,9 +36,9 @@ Invoke-RestMethod `
   }'
 ```
 ---
-## 支持企业微信版本
+## 支持企V版本
 - `5.0.11.6018`
-- 官网下载地址`[5.0.11.6018](https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.11.6018.exe)`
+- 官网下载地址 https://dldir1.qq.com/wework/work_weixin/WeCom_5.0.11.6018.exe
 ---
 ## 使用方法
 1. 克隆本项目。
@@ -56,7 +56,6 @@ Invoke-RestMethod `
 > `http://127.0.0.1:5001/wecom/sendText`
 ---
 ## 专业版
-- QQ群 `1125970597`
 - tg群 `https://t.me/wecomapi`
 ## 专业版支持功能
 ### 账号与联系人
