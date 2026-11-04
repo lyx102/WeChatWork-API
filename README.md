@@ -56,7 +56,7 @@ Invoke-RestMethod `
 > `http://127.0.0.1:5001/wecom/sendText`
 ---
 ## 专业版
-- tg群 `https://t.me/wecomapi`
+- tg群  https://t.me/wecomapi
 ## 专业版支持功能
 ### 账号与联系人
 - 获取个人信息
